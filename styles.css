@@ -39,7 +39,7 @@
   display: Block;
 }
 
-/*Seccion Productos */
+/*Seccion Nosotros */
 .Seccion-productos {
   padding: 60px 20px;
   background-color: rgb(252, 252, 252);
@@ -67,7 +67,7 @@
 .div-prod-texto p {
   color: black;
   line-height: 1.5;
-  font-size: 15px;
+  font-size: 20px;
   text-align: justify;
 }
 .div-prod-img {
@@ -78,10 +78,10 @@
   max-width: 500px;
 }
 
-/*Seccion Zona digital */
+/*Seccion Nuestros autos */
 .Seccion-zondig {
   padding: 60px 20px;
-  background-color: rgb(187, 176, 22);
+  background-color: rgb(112, 132, 245);
 }
 .div-gral-zondig {
   display: flex;
@@ -102,7 +102,7 @@
 .div-zondig-texto p {
   color: black;
   line-height: 1;
-  font-size: 15px;
+  font-size: 20px;
   text-align: justify;
 }
 .div-zondig-video {
@@ -111,7 +111,7 @@
 
 /*Seccion Formulario */
 .seccion-formulario {
-  background-color: aqua;
+  background-color: skyblue;
   padding: 40px;
   border: 3px;
   display: flex;
@@ -119,15 +119,15 @@
   margin-bottom: 40px;
 }
 .div-cont-formulario {
-  background-color: rgb(117, 236, 93);
+  background-color: rgb(112, 132, 245);
   padding: 30px;
-  border: 2px solid rgb(0, 151, 144);
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 10px;
   width: 100%;
   max-width: 500px;
 }
 .campo {
-  background-color: rgb(226, 43, 171);
+  background-color: skyblue;
   padding: 15px;
   border: 1px;
   border-radius: 8px;
@@ -158,7 +158,7 @@
   border-radius: 8px;
 }
 .formulario button {
-  background-color: rgb(255, 6, 222);
+  background-color: rgb(255, 255, 255);
   color: blue;
   border: 1.5px solid #5001e2;
   padding: 10px 20px;
